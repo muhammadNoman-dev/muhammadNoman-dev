@@ -7,7 +7,7 @@ Passionate about building scalable, high-performing, and user-friendly applicati
 
 ## 🚀 About Me  
 - 🌟 3+ years of experience in **full-stack development**  
-- 🛠 Worked on **web & mobile applications**, **enterprise systems**, and **real-time platforms**  
+- 🛠 Worked on **web & mobile applications**, **enterprise systems**, **real-time platforms** and **health related platforms**  
 - 💡 Strong focus on **clean code, maintainability, and performance**  
 
 ---
